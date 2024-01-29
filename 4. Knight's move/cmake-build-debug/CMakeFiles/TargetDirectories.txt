@@ -1,0 +1,3 @@
+C:/Coding_Projects/С++/CodeRun/4. Ход конём/cmake-build-debug/CMakeFiles/4___.dir
+C:/Coding_Projects/С++/CodeRun/4. Ход конём/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Coding_Projects/С++/CodeRun/4. Ход конём/cmake-build-debug/CMakeFiles/rebuild_cache.dir

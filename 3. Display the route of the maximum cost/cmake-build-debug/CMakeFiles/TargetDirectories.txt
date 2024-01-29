@@ -1,0 +1,3 @@
+C:/Coding_Projects/С++/CodeRun/3. Вывести маршрут максимальной стоимости/cmake-build-debug/CMakeFiles/3_____.dir
+C:/Coding_Projects/С++/CodeRun/3. Вывести маршрут максимальной стоимости/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Coding_Projects/С++/CodeRun/3. Вывести маршрут максимальной стоимости/cmake-build-debug/CMakeFiles/rebuild_cache.dir

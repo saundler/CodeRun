@@ -1,0 +1,3 @@
+C:/Coding_Projects/С++/CodeRun/1. Гвоздики/cmake-build-debug/CMakeFiles/1__.dir
+C:/Coding_Projects/С++/CodeRun/1. Гвоздики/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Coding_Projects/С++/CodeRun/1. Гвоздики/cmake-build-debug/CMakeFiles/rebuild_cache.dir

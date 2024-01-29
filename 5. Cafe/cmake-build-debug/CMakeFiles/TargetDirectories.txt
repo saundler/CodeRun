@@ -1,0 +1,3 @@
+C:/Coding_Projects/C++/CodeRun/5. Cafe/cmake-build-debug/CMakeFiles/5__.dir
+C:/Coding_Projects/C++/CodeRun/5. Cafe/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Coding_Projects/C++/CodeRun/5. Cafe/cmake-build-debug/CMakeFiles/rebuild_cache.dir
